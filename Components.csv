@@ -1,0 +1,10 @@
+﻿Name,Quantity,Component
+"D1, D2",2,"Red LED"
+"M1, M2, M3, M4",4," Hobby Gearmotor"
+"R1, R2",2,"220 Ω Resistor"
+"U1",1," H-bridge Motor Driver"
+"D3, D4",2,"Yellow LED"
+"BAT1",1," 9V Battery"
+"D5, D6, D7, D8, D9, D10, D11, D12",8,"RCBG LED RGB"
+"U2",1," Arduino Uno R3"
+"U4",1," IR sensor"
